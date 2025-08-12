@@ -1,0 +1,3 @@
+<center>这是居中显示的文本</center>
+<br>
+<font color="red" size="4">这是红色的文本</font>
